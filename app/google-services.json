@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "624325066155",
+    "firebase_url": "https://cdc-application-31b8c.firebaseio.com",
+    "project_id": "cdc-application-31b8c",
+    "storage_bucket": "cdc-application-31b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624325066155:android:15f86ab8d1678931",
+        "android_client_info": {
+          "package_name": "com.mitrais.cdcapp.cdcapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624325066155-un2ksb3q1ihmqaqkki4onejkioqp4nsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2gonWOw64lBrGOoT5l4s62MEJPQ-GkyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
